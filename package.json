@@ -1,6 +1,6 @@
 {
   "name": "babyshark",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Baby shark verse generator",
   "main": "index.js",
   "module": "index.mjs",
