@@ -27,10 +27,10 @@ Let's go hunt!
   xxSharkDoo('Mommy') +
   xxSharkDoo('Daddy') +
   xxSharkDoo('Grandpa') +
-  xxSharkDoo("Let's go hunt", 1) +
-  xxSharkDoo('Run away') +
-  xxSharkDoo('Safe at last') +
-  xxSharkDoo("It's the end")
+  xxSharkDoo("Let's go hunt", true) +
+  xxSharkDoo('Run away', true) +
+  xxSharkDoo('Safe at last', true) +
+  xxSharkDoo("It's the end", true)
 ```
 
 #### Or just use integrated `babySharksong` function

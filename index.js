@@ -18,9 +18,9 @@ function babySharksong() {
     xxSharkDoo('Daddy') +
     xxSharkDoo('Grandpa') +
     xxSharkDoo("Let's go hunt", true) +
-    xxSharkDoo('Run away') +
-    xxSharkDoo('Safe at last') +
-    xxSharkDoo("It's the end")
+    xxSharkDoo('Run away', true) +
+    xxSharkDoo('Safe at last', true) +
+    xxSharkDoo("It's the end", true)
 }
 
 module.exports = { xxSharkDoo, babySharksong };
