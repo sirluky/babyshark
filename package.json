@@ -1,0 +1,29 @@
+{
+  "name": "babyshark",
+  "version": "1.0.0",
+  "description": "Baby shark verse generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirluky/babyshark.git"
+  },
+  "keywords": [
+    "babyshark",
+    "baby",
+    "shark",
+    "doo"
+  ],
+  "author": "sirluky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirluky/babyshark/issues"
+  },
+  "homepage": "https://github.com/sirluky/babyshark#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^26.1.0"
+  }
+}
