@@ -23,6 +23,4 @@ function babySharksong() {
     xxSharkDoo("It's the end")
 }
 
-module.exports = { xxSharkDoo, babySharksong };
-
-
+export { xxSharkDoo, babySharksong };
