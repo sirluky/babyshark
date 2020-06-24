@@ -58,18 +58,18 @@ Let's go hunt, doo doo doo doo doo doo
 Let's go hunt, doo doo doo doo doo doo 
 Let's go hunt, doo doo doo doo doo doo 
 Let's go hunt!
-Run away shark, doo doo doo doo doo doo 
-Run away shark, doo doo doo doo doo doo 
-Run away shark, doo doo doo doo doo doo 
-Run away shark!
-Safe at last shark, doo doo doo doo doo doo 
-Safe at last shark, doo doo doo doo doo doo 
-Safe at last shark, doo doo doo doo doo doo 
-Safe at last shark!
-It's the end shark, doo doo doo doo doo doo 
-It's the end shark, doo doo doo doo doo doo 
-It's the end shark, doo doo doo doo doo doo 
-It's the end shark!*/
+Run away, doo doo doo doo doo doo 
+Run away, doo doo doo doo doo doo 
+Run away, doo doo doo doo doo doo 
+Run away!
+Safe at last, doo doo doo doo doo doo 
+Safe at last, doo doo doo doo doo doo 
+Safe at last, doo doo doo doo doo doo 
+Safe at last!
+It's the end, doo doo doo doo doo doo 
+It's the end, doo doo doo doo doo doo 
+It's the end, doo doo doo doo doo doo 
+It's the end!*/
 ```
 
 [Play the song 🐟](https://www.youtube.com/watch?v=XqZsoesa55w)
